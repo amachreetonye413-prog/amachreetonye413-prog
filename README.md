@@ -15,6 +15,7 @@ Data Science | Data Analytics | Machine Learning
     <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
 ## 🚀 About Me
 
 Hello! I'm **Tonye Amachree** — a Software Engineering graduate from **Babcock University** with a strong interest in using data to solve problems, uncover insights and support better decision-making.
