@@ -81,8 +81,47 @@ I'm continuously developing my skills through hands-on projects, practical learn
 
 ## 🏆 GitHub Achievements
 
+### 🌱 Currently Learning
+
+- 📊 **Exploratory Data Analysis (EDA)** and advanced data manipulation with Pandas and NumPy
+- 📈 **Statistics & Probability** for data-driven decision-making
+- 🤖 **Machine Learning** algorithms, model training and evaluation
+- 🧮 **Predictive Analytics** and statistical modelling
+- 📉 **Data Visualisation** and storytelling with Matplotlib, Seaborn and Power BI
+- 🗄️ **SQL** for querying, managing and analysing datasets
+- 🧠 Exploring **Deep Learning** and practical AI applications
+
+
+### 💼 What I Bring to the Table
+
+📊 **Data Analysis** — Cleaning, exploring and analysing datasets to uncover meaningful patterns and insights.
+🐍 **Python for Data Science** — Using Pandas, NumPy and Python to process data and solve analytical problems.
+🗄️ **SQL & Database Analysis** — Querying, managing and extracting insights from structured datasets.
+🤖 **Machine Learning** — Building predictive models, exploring algorithms and evaluating model performance.
+📈 **Data Visualisation** — Creating insightful visualisations and dashboards with Matplotlib, Seaborn and Power BI.
+🧠 **Statistical Analysis** — Applying statistical methods to interpret data, identify trends and support informed decisions.
+
+
+🤝 Let's Connect!
+I'm always open to discussing:
+
+📊 **Data Science Projects** — Collaborating on data analysis, exploratory data analysis and predictive modelling projects.
+🤖 **Machine Learning** — Exploring machine learning applications, algorithms and innovative ways to solve real-world problems.
+💡 **Data-Driven Ideas** — Sharing ideas and building solutions that turn data into meaningful insights.
+📚 **Knowledge Sharing** — Connecting with data professionals, learning from others and contributing to the data science community.
+💼 **Open to Opportunities** — Available for Data Analyst and Data Science internships, graduate trainee programmes and entry-level roles.
+
+**Let's connect, learn and create something meaningful with data!**
+
+📧 Email: amachreetonye413@gmail.com
+🔗 LinkedIn: tamunotonye-amachree
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR-GITHUB-USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" width="100%" />
+  <h2 align="center">⭐ "Turning data into insights that make a difference" ⭐</h2>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=PROFILE+VIEWS&color=8A2BE2&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <!--
