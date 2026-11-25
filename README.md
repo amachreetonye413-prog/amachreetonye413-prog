@@ -123,7 +123,7 @@ I'm always open to discussing:
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=PROFILE+VIEWS&color=8A2BE2&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=amachreetonye413-prog&label=PROFILE+VIEWS&color=8A2BE2&style=for-the-badge" alt="Profile Views" />
 </p>
 
 
