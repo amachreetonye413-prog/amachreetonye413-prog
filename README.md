@@ -96,22 +96,21 @@ I'm continuously developing my skills through hands-on projects, practical learn
 
 ### 💼 What I Bring to the Table
 
-📊 **Data Analysis** — Cleaning, exploring and analysing datasets to uncover meaningful patterns and insights.
-🐍 **Python for Data Science** — Using Pandas, NumPy and Python to process data and solve analytical problems.
-🗄️ **SQL & Database Analysis** — Querying, managing and extracting insights from structured datasets.
-🤖 **Machine Learning** — Building predictive models, exploring algorithms and evaluating model performance.
-📈 **Data Visualisation** — Creating insightful visualisations and dashboards with Matplotlib, Seaborn and Power BI.
-🧠 **Statistical Analysis** — Applying statistical methods to interpret data, identify trends and support informed decisions.
+- 📊 **Data Analysis** — Cleaning, exploring and analysing datasets to uncover meaningful patterns and insights.
+- 🐍 **Python for Data Science** — Using Pandas, NumPy and Python to process data and solve analytical problems.
+- 🗄️ **SQL & Database Analysis** — Querying, managing and extracting insights from structured datasets.
+- 🤖 **Machine Learning** — Building predictive models, exploring algorithms and evaluating model performance.
+- 📈 **Data Visualisation** — Creating insightful visualisations and dashboards with Matplotlib, Seaborn and Power BI.
+- 🧠 **Statistical Analysis** — Applying statistical methods to interpret data, identify trends and support informed decisions.
 
 
 🤝 Let's Connect!
 I'm always open to discussing:
 
-📊 **Data Science Projects** — Collaborating on data analysis, exploratory data analysis and predictive modelling projects.
-🤖 **Machine Learning** — Exploring machine learning applications, algorithms and innovative ways to solve real-world problems.
-💡 **Data-Driven Ideas** — Sharing ideas and building solutions that turn data into meaningful insights.
-📚 **Knowledge Sharing** — Connecting with data professionals, learning from others and contributing to the data science community.
-💼 **Open to Opportunities** — Available for Data Analyst and Data Science internships, graduate trainee programmes and entry-level roles.
+-📊 **Data Science Projects** — Collaborating on data analysis, exploratory data analysis and predictive modelling projects--🤖 **Machine Learning** — Exploring machine learning applications, algorithms and innovative ways to solve real-world problems.
+-💡 **Data-Driven Ideas** — Sharing ideas and building solutions that turn data into meaningful insights.
+-📚 **Knowledge Sharing** — Connecting with data professionals, learning from others and contributing to the data science community.
+-💼 **Open to Opportunities** — Available for Data Analyst and Data Science internships, graduate trainee programmes and entry-level roles.
 
 **Let's connect, learn and create something meaningful with data!**
 
